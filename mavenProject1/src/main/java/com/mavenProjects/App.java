@@ -6,6 +6,10 @@ package com.mavenProjects;
  */
 public class App 
 {
+	public static void main(String[] args){
+	App obj =new App();
+	System.out.println(obj.evaluate(5,4));
+	}
     static int evaluate(int a,int b){
 	return a+b;
     }
