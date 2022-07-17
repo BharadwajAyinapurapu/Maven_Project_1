@@ -8,7 +8,6 @@ public class App
 {
 	public static void main(String[] args){
 		App obj =new App();
-		System.out.println("HI BHARADWAJ");
 		System.out.println(obj.add(5,4));
 		System.out.println(obj.sub(5,4));
 		System.out.println(obj.mul(5,4));
