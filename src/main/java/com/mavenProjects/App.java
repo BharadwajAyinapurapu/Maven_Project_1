@@ -7,8 +7,12 @@ package com.mavenProjects;
 public class App
 {
 	public static void main(String[] args){
-//		App obj =new App();
-//		System.out.println(obj.evaluate(5,4));
+		App obj =new App();
+		System.out.println(obj.add(5,4));
+		System.out.println(obj.sub(5,4));
+		System.out.println(obj.mul(5,4));
+		System.out.println(obj.div(5,4));
+		System.out.println(obj.equalInteger(5,4));
 	}
 	static int add(int a,int b){
 		return a+b;
