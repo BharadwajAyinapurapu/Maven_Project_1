@@ -18,7 +18,7 @@ public class App
 		return a+b;
 	}
 	 int sub(int a, int b){
-		return a-b;
+		retun a-b;
 	}
 	 int mul(int a, int b){
 		return a*b;
