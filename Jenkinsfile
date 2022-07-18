@@ -26,7 +26,7 @@ pipeline{
 			}
 			post{
 				success{
-					archiveArtifacts 'maven.jar'
+					archiveArtifacts '**/target/*.jar'
 				}
 			}
 		}
