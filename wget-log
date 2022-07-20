@@ -1,0 +1,6 @@
+--2022-07-18 20:04:37--  https://releases-cdn.jfrog.io/filestore/1d/1dd86fc49ac8c6733c8b3989e244485a060e934b?response-content-type=application/x-gzip
+Resolving releases-cdn.jfrog.io (releases-cdn.jfrog.io)... 13.35.231.24, 13.35.231.75, 13.35.231.97, ...
+Connecting to releases-cdn.jfrog.io (releases-cdn.jfrog.io)|13.35.231.24|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2022-07-18 20:04:37 ERROR 403: Forbidden.
+
